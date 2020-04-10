@@ -1,1 +1,2 @@
 Adding first line of text for the first commit
+Adding one more line for the second commit
