@@ -1,0 +1,8 @@
+#database extensions
+*.db
+#logging file
+*.log
+#excluding some folders
+target/
+bin/
+test/
